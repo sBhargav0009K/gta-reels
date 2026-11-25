@@ -1,0 +1,18 @@
+{
+ "case_no": "002",
+ "status": "Player-reported. Not confirmed by Rockstar.",
+ "sources": "Sources: GameRant, Dexerto, 23 Nov 2026",
+ "slides": [
+  {"img": "Vice_City_27", "fx": 0.5, "fy": 0.55, "label": "STATUS: UNCONFIRMED", "section": "THE RUMOUR",
+   "title": "A door back\nto 2002.", "body": "Players say GTA 6 hides a portal to the old Vice City. We followed the clues."},
+  {"img": "Ambrosia_04", "fx": 0.5, "fy": 0.45, "label": "EXHIBIT A: THE SUBSTATIONS", "section": "THE CLUE",
+   "title": "12 substations.\nOne old cheat code.", "body": "It starts at the Key Lento radio tower: pull the power switch, turn on the TV. Then 12 substations, one letter each. Together they spell a 2002 Vice City cheat.",
+   "evidence": {"head": "TEXT MESSAGE", "text": "U-235  REACTOR2  19-06"}},
+  {"img": "Vice_City_22", "fx": 0.5, "fy": 0.5, "label": "EXHIBIT B: AFTER DARK", "section": "THE DOOR",
+   "title": "Reactor 2.\n7 PM to 6 AM.", "body": "19-06 is the time window. At the power station east of Hamlet, pull the switch on the left. A portal opens.",
+   "highlight": "It drops you in a nightclub in a PS2-style 2002 Vice City."},
+  {"img": "Vice_City_01", "fx": 0.5, "fy": 0.4, "label": "VERDICT: OPEN CASE", "section": "THE PAYOFF",
+   "title": "Walk out in\nTommy's shirt.", "body": "Reported reward: Tommy Vercetti's Hawaiian shirt and a classic motorbike, and you keep both. No fast travel, no dying, or the trail resets.",
+   "cta": "Send this to the friend who still knows the cheats."}
+ ]
+}
