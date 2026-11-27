@@ -1,0 +1,18 @@
+{
+ "case_no": "003",
+ "status": "Player-reported. Not confirmed by Rockstar.",
+ "sources": "Sources: Dexerto 24 Nov, GameRant + VICE 25 Nov 2026",
+ "slides": [
+  {"img": "Vice_City_03", "fx": 0.5, "fy": 0.5, "label": "STATUS: PLAYER-REPORTED", "section": "THE RUMOUR",
+   "title": "Scarface is hiding\nin Ocean Beach.", "body": "Players found a scene from the 1983 film rebuilt in GTA 6. It only works at midday."},
+  {"img": "Vice_City_26", "fx": 0.5, "fy": 0.5, "label": "EXHIBIT A: THE DOOR", "section": "THE CLUE",
+   "title": "A locked door\nat noon.", "body": "Get to Ocean Beach between 12 and 1 PM in-game. Take the stairs up to the rooms and try the first door. It won't open. That's the trigger.",
+   "evidence": {"head": "TIME WINDOW (PRESS REPORTS)", "text": "12-1 PM  /  12-2 PM  /  12-3 PM"}},
+  {"img": "Vice_City_09", "fx": 0.5, "fy": 0.5, "label": "EXHIBIT B: THE STREET", "section": "THE TURN",
+   "title": "Walk away.\nThen go back.", "body": "Head down to the street. A man in a yellow shirt goes down, straight out of the film. Back upstairs, the door is open.",
+   "highlight": "GameRant: don't use the stairs you came up."},
+  {"img": "Vice_City_17", "fx": 0.5, "fy": 0.5, "label": "VERDICT: OPEN CASE", "section": "THE PAYOFF",
+   "title": "Say hello to\nmy little friend.", "body": "Inside: the film's infamous bathroom, and the Little Friend W-10 SMG on the floor, ready to grab.",
+   "cta": "Send this to the friend who quotes Scarface on every drive."}
+ ]
+}
