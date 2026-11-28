@@ -168,55 +168,55 @@ REELS.update({
 # ---- Animal week (8A-8E), fact-checked 28 Nov 2026 ----
 # Sources: GTA Culture animals guide (updated 26 Nov 2026), Output Lag "All 255 entries" (updated 26 Nov 2026),
 # Red Bull wildlife (20 Oct 2026). Single-source items are worded "guides say" / "players say".
+# Follows REEL_LOG rules: 2-line hook, no screenshot used twice in a reel.
 REELS.update({
     "8A": dict(
         slug="log_all_255_animals", status="FOUND BY PLAYERS", bpm=100,
         lines=[
-            dict(say="255 animals in GTA 6. Can you log them all?", big="255 animals.\nCan you log\nthem all?", img="Leonida_Keys_06", fx=0.5),
-            dict(say="Open the pause menu, then Progress, then Animals.", key="Animals.", img="Mount_Kalaga_National_Park_05", fx=0.72, tag="FOUND BY PLAYERS"),
-            dict(say="Equip your binoculars and zoom in.", key="binoculars", img="Mount_Kalaga_National_Park_05", fx=0.2, move="r"),
+            dict(say="Can you log all 255 animals in GTA 6?", big="255 animals.\nLog them all?", img="Leonida_Keys_06", fx=0.5),
+            dict(say="Pause, then Progress, then Animals.", key="Animals.", img="Mount_Kalaga_National_Park_05", fx=0.72, tag="FOUND BY PLAYERS"),
+            dict(say="Equip your binoculars and zoom in.", key="binoculars", img="Grassrivers_07", fx=0.5),
             dict(say="When Study pops up, hold R1 to log it.", key="Study", img="Leonida_Keys_04", fx=0.5),
             dict(say="Birds, fish, gators, even every dog breed.", key="gators,", img="Grassrivers_01", fx=0.35),
-            dict(say="How many have you logged? Tell me.", big="How many have\nyou logged?\nTell me", img="Leonida_Keys_07", fx=0.5),
+            dict(say="How many have you logged? Tell me.", big="How many have\nyou logged?", img="Leonida_Keys_07", fx=0.5),
         ]),
     "8B": dict(
         slug="it_counts_every_pet", status="FOUND BY PLAYERS", bpm=96, mood="chill",
         lines=[
-            dict(say="GTA 6 counts every dog you pet.", big="GTA 6 counts\nevery dog\nyou pet", img="Vice_City_19", fx=0.25),
+            dict(say="GTA 6 counts every dog you pet.", big="It counts\nevery dog pet", img="Vice_City_19", fx=0.25),
             dict(say="Walk up to a dog and you get a choice.", key="choice.", img="Vice_City_22", fx=0.5, tag="FOUND BY PLAYERS"),
-            dict(say="Pet it, scold it, or study it.", key="scold", img="Vice_City_19", fx=0.6, move="in"),
-            dict(say="The animal log keeps score of every pet, feed and scold.", key="score", img="Leonida_Keys_02", fx=0.45),
-            dict(say="So be nice. The game is watching.", key="watching.", img="Vice_City_05", fx=0.5),
-            dict(say="Send this to the friend who pets every dog.", big="Send this to\nthe friend who\npets every dog", img="Vice_City_19", fx=0.1),
+            dict(say="Pet it, scold it, or study it.", key="scold", img="Leonida_Keys_02", fx=0.45),
+            dict(say="The animal log keeps score of every pet, feed and scold.", key="score", img="Vice_City_05", fx=0.5),
+            dict(say="Send this to the friend who pets every dog.", big="Send this to\nthe dog petter", img="Vice_City_26", fx=0.5),
         ]),
     "8C": dict(
         slug="dont_fight_a_gator", status="FOUND BY PLAYERS", bpm=108,
         lines=[
-            dict(say="Don't pick a fight with a GTA 6 gator.", big="Don't fight\na GTA 6\ngator", img="Grassrivers_08", fx=0.5),
+            dict(say="Don't pick a fight with a GTA 6 gator.", big="Don't fight\nthis gator", img="Grassrivers_08", fx=0.5),
             dict(say="In the swamps, the alligators fight back.", key="back.", img="Grassrivers_01", fx=0.3, tag="FOUND BY PLAYERS"),
             dict(say="One reviewer emptied a gun into one.", key="emptied", img="Grassrivers_04", fx=0.5),
-            dict(say="Ran out of ammo on the next, and got eaten.", key="eaten.", img="Grassrivers_08", fx=0.7, move="in"),
+            dict(say="Ran out of ammo on the next, and got eaten.", key="eaten.", img="Grassrivers_06", fx=0.5),
             dict(say="Guides list a challenge to take down three wild gators.", key="three", img="Grassrivers_03", fx=0.5),
-            dict(say="Send this to the friend who'd try anyway.", big="Send this to\nthe friend who'd\ntry anyway", img="Grassrivers_05", fx=0.5),
+            dict(say="Send this to the friend who'd try anyway.", big="Send this to\nthe one who'd try", img="Grassrivers_05", fx=0.5),
         ]),
     "8D": dict(
         slug="one_clean_shot", status="FOUND BY PLAYERS", bpm=96, mood="chill",
         lines=[
-            dict(say="In GTA 6 hunting, it's one shot, or it's worthless.", big="One shot.\nOr it's\nworthless.", img="Mount_Kalaga_National_Park_05", fx=0.72),
+            dict(say="In GTA 6 hunting, it's one shot, or it's worthless.", big="One shot.\nOr worthless.", img="Mount_Kalaga_National_Park_05", fx=0.72),
             dict(say="Jason's army buddy Bret runs hunts near Mount Kalaga.", key="Bret", img="Mount_Kalaga_National_Park_03", fx=0.45, tag="FOUND BY PLAYERS"),
-            dict(say="Then one clean shot. Head or heart.", key="clean", img="Mount_Kalaga_National_Park_05", fx=0.2, move="in"),
-            dict(say="A clean kill stays pristine, and sells for more.", key="pristine,", img="Mount_Kalaga_National_Park_03", fx=0.7),
+            dict(say="One clean shot. Head or heart.", key="clean", img="Mount_Kalaga_National_Park_04", fx=0.5),
+            dict(say="A clean kill stays pristine, and sells for more.", key="pristine,", img="Jason_and_Lucia_16", fx=0.5),
             dict(say="Hunting won't go on your record. Hurting pets will.", key="pets", img="Vice_City_19", fx=0.3),
-            dict(say="Send this to your hunting buddy.", big="Send this to\nyour hunting\nbuddy", img="Mount_Kalaga_National_Park_04", fx=0.3),
+            dict(say="Send this to your hunting buddy.", big="Send this to\nyour hunting buddy", img="Mount_Kalaga_National_Park_02", fx=0.5),
         ]),
     "8E": dict(
         slug="out_fish_cal", status="FOUND BY PLAYERS", bpm=92, mood="chill",
         lines=[
             dict(say="Think you can out-fish Cal in GTA 6?", big="Can you\nout-fish Cal?", img="Jason_Duval_03", fx=0.4),
-            dict(say="After the mission Feng Shui, Cal texts Jason a fishing spot.", key="Cal", img="Leonida_Keys_01", fx=0.5, tag="FOUND BY PLAYERS"),
-            dict(say="Beat him, and guides say you unlock a trophy.", key="trophy.", img="Jason_Duval_03", fx=0.75, move="r"),
+            dict(say="After Feng Shui, Cal texts you a fishing spot.", key="Cal", img="Leonida_Keys_01", fx=0.5, tag="FOUND BY PLAYERS"),
+            dict(say="Beat him, and guides say you unlock a trophy.", key="trophy.", img="Leonida_Keys_05", fx=0.5),
             dict(say="There are 35 fish to catch, and bait matters.", key="bait", img="Leonida_Keys_04", fx=0.4),
-            dict(say="Land 100, and players say you get a fisheye camera filter.", key="fisheye", img="Leonida_Keys_07", fx=0.5),
-            dict(say="Send this to the friend you'd out-fish.", big="Send this to\nthe friend\nyou'd out-fish", img="Port_Gellhorn_06", fx=0.5),
+            dict(say="Catch 100, and players say you unlock a fisheye filter.", key="fisheye", img="Leonida_Keys_07", fx=0.5),
+            dict(say="Send this to the friend you'd out-fish.", big="Send this to\nyour fishing rival", img="Port_Gellhorn_06", fx=0.5),
         ]),
 })
