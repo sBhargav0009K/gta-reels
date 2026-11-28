@@ -1,0 +1,49 @@
+{
+ "case_no": "004",
+ "status": "Player-reported. Not confirmed by Rockstar.",
+ "sources": "Sources: Beebom 19 Nov, GamesFuze upd. 25 Nov 2026",
+ "slides": [
+  {
+   "img": "Port_Gellhorn_01",
+   "fx": 0.5,
+   "fy": 0.5,
+   "label": "STATUS: PLAYER-REPORTED",
+   "section": "THE CASE",
+   "title": "GTA 6 has a\nUFO abduction.",
+   "body": "Guides say a real alien encounter waits near the Starlet Motel. It only shows up after 2 AM."
+  },
+  {
+   "img": "Grassrivers_05",
+   "fx": 0.5,
+   "fy": 0.5,
+   "label": "EXHIBIT A: THE CAR",
+   "section": "THE CLUE",
+   "title": "An empty car.\nDoors wide open.",
+   "body": "On a rural road in Kelly County: a car with its lights on, doors open, clothes on the ground. Follow the headlights into the woods.",
+   "evidence": {
+    "head": "TROPHY (PER GUIDES)",
+    "text": "THE TRUTH IS OUT THERE"
+   }
+  },
+  {
+   "img": "Port_Gellhorn_06",
+   "fx": 0.5,
+   "fy": 0.5,
+   "label": "EXHIBIT B: THE BEAM",
+   "section": "THE TURN",
+   "title": "Help the stranger.\nThen you're next.",
+   "body": "A UFO beam lights up the trees. A stranger on the ground asks you to fetch their car. Walk back, and the UFO takes you instead.",
+   "highlight": "You wake up days later."
+  },
+  {
+   "img": "Leonida_Keys_01",
+   "fx": 0.5,
+   "fy": 0.5,
+   "label": "VERDICT: OPEN CASE",
+   "section": "THE PAYOFF",
+   "title": "And it's only\nthe beginning.",
+   "body": "One guide says a dream puzzle follows, then a facility near Key Lento. It also warns the car doesn't spawn every time.",
+   "cta": "Send this to the friend who still hunts the Chiliad UFO."
+  }
+ ]
+}
